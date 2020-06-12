@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc72116e-e0d9-427d-bdd3-069ef20fe34f" name="Default Changelist" comment="Added fetching data, changed movie to functional stateless components.">
+    <list default="true" id="dc72116e-e0d9-427d-bdd3-069ef20fe34f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MovieDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoviesList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Movie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591740251800</updated>
       <workItem from="1591740253267" duration="399000" />
-      <workItem from="1591740731772" duration="13756000" />
+      <workItem from="1591740731772" duration="21290000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Intro, starting actual app.">
       <created>1591815997200</created>
@@ -90,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591824653380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added fetching data, changed movie to functional stateless components.">
+      <created>1591846870794</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591846870794</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,11 +129,11 @@
       <screen x="-317" y="-1417" width="2560" height="1417" />
     </state>
     <state x="61" y="-988" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-317.-1417.2560.1417/0.23.1792.1053@-317.-1417.2560.1417" timestamp="1591816221425" />
-    <state x="-68" y="-1228" key="CommitChangelistDialog2" timestamp="1591846854583">
+    <state x="-68" y="-1228" key="CommitChangelistDialog2" timestamp="1591846870669">
       <screen x="-317" y="-1417" width="2560" height="1417" />
     </state>
     <state x="-68" y="-1228" key="CommitChangelistDialog2/-317.-1417.2560.1417/0.23.1792.1052@-317.-1417.2560.1417" timestamp="1591824653248" />
-    <state x="-68" y="-1228" key="CommitChangelistDialog2/-317.-1417.2560.1417/0.23.1792.1053@-317.-1417.2560.1417" timestamp="1591846854583" />
+    <state x="-68" y="-1228" key="CommitChangelistDialog2/-317.-1417.2560.1417/0.23.1792.1053@-317.-1417.2560.1417" timestamp="1591846870669" />
     <state width="1259" height="390" key="GridCell.Tab.0.bottom" timestamp="1591844230591">
       <screen x="-317" y="-1417" width="2560" height="1417" />
     </state>
@@ -145,11 +156,11 @@
     <state x="-168" y="-1070" width="1293" height="722" key="SettingsEditor/-317.-1417.2560.1417/0.23.1792.1048@-317.-1417.2560.1417" timestamp="1591741203709" />
     <state x="-168" y="-1070" key="SettingsEditor/-317.-1417.2560.1417/0.23.1792.1049@-317.-1417.2560.1417" timestamp="1591743881183" />
     <state x="-168" y="-1070" key="SettingsEditor/-317.-1417.2560.1417/0.23.1792.1053@-317.-1417.2560.1417" timestamp="1591846309674" />
-    <state x="-77" y="-1021" key="Vcs.Push.Dialog.v2" timestamp="1591824654814">
+    <state x="-77" y="-1021" key="Vcs.Push.Dialog.v2" timestamp="1591846873997">
       <screen x="-317" y="-1417" width="2560" height="1417" />
     </state>
     <state x="-77" y="-1021" key="Vcs.Push.Dialog.v2/-317.-1417.2560.1417/0.23.1792.1052@-317.-1417.2560.1417" timestamp="1591824654814" />
-    <state x="-77" y="-1021" key="Vcs.Push.Dialog.v2/-317.-1417.2560.1417/0.23.1792.1053@-317.-1417.2560.1417" timestamp="1591816045197" />
+    <state x="-77" y="-1021" key="Vcs.Push.Dialog.v2/-317.-1417.2560.1417/0.23.1792.1053@-317.-1417.2560.1417" timestamp="1591846873997" />
     <state x="126" y="-823" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591815138186">
       <screen x="-317" y="-1417" width="2560" height="1417" />
     </state>
